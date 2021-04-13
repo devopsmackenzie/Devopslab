@@ -13,7 +13,7 @@ python:
     
 addons:
    sonarcloud:
-     organization: nando-rb
+     organization: devopsmackenzie
      token: ${SONAR_TOKEN}    
     
     
